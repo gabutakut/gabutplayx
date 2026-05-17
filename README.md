@@ -6,7 +6,6 @@ A modern high-performance video player built with Vala and GTK4, designed to del
 
 - 🎬 Modern GTK4 user interface
 - ⚡ Hardware accelerated video decoding
-- 🖥️ NVIDIA NVDEC/NVENC acceleration support
 - 🔥 VA-API hardware acceleration integration
 - 🎵 High quality audio playback
 - 📂 Drag and drop media support
@@ -94,6 +93,8 @@ Vala provides:
 - GTK4
 - GStreamer
 - VA-API drivers
+- Dmabuf
+- MemoryTexture
 
 ### Build Dependencies
 
