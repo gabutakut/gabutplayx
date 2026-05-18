@@ -30,19 +30,13 @@ Features:
 - Reduced CPU utilization
 - Efficient power consumption
 - Smooth 4K playback
-
-#### NVIDIA Hardware Acceleration
-Native NVIDIA GPU acceleration support using NVDEC/NVENC technologies.
-
-Features:
-- High performance hardware decoding
 - Optimized rendering pipeline
 - Smooth high bitrate playback
 - Efficient GPU video processing
 
 ## Native Rendering Pipeline
 
-Unlike many GTK4 multimedia applications, Valkast Player does not depend on:
+Unlike many GTK4 multimedia applications, PlayX does not depend on:
 
 - `gtk4paintablesink`
 - Rust-based GTK video sink libraries
